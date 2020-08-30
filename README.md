@@ -1,3 +1,10 @@
+# HTTP Interceptor - How we can send JWT token back to service
+files used:
+1. app.module.ts
+2. demo-service.service.ts
+3. auth-interceptor.ts
+4. app.component.ts
+
 # DemoUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.16.
